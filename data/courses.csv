@@ -1,0 +1,4 @@
+courseNumber,name,numOfStudents,lectureHours,labHours,sectionName
+EEE F311,Communication Systems,120,3,0,A1
+MATH F212,Optimization,90,3,0,A1
+CS F213,Object Oriented Programming,100,3,1,A2

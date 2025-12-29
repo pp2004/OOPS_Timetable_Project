@@ -1,0 +1,4 @@
+id,capacity,av_required,num_computers,is_lab
+D001,80,true,20,false
+G102,100,false,0,false
+I005,40,true,30,true
